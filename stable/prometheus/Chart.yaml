@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: apps/v1
 name: prometheus
 version: 10.3.1
 appVersion: 2.15.2
